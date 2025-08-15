@@ -51,7 +51,7 @@ Maintain high accuracy without hardcoding specific layouts.
 
 📹 Video Demonstration
 
-Watch Demo Video : https://drive.google.com/drive/folders/1-TRUbjo-PrQJ-Nh6duiq7orx9AkN5srx?usp=sharing
+Watch Demo Video : https://drive.google.com/file/d/13WoGJbCVdRs8xnC3GaMDlS7tjusSuq41/view?usp=sharing
 
 🛠️ Tech Stack
 
