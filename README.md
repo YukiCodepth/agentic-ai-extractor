@@ -1,29 +1,64 @@
-# Aman Agentic AI Document Data Extractor
+🚀 Overview
 
-## 📌 Problem Statement
-[Write your 500-word problem and solution here — I can help you draft this.]
+This project was built for the Build with Agentic AI Challenge during the Aman Hackathon.
+It is an AI-powered Resume Data Extractor that takes a resume file (PDF) and extracts structured information such as Name, Position, Salary, Department, and more.
+The extracted data is displayed in a clean, aesthetic, and user-friendly interface.
 
-## 💡 Solution
-This app extracts structured data from uploaded documents using Agentic AI principles and IBM watsonx APIs, enabling batch processing, CSV export, and an aesthetic UI for easy use.
+🎯 Problem Statement
 
-## 🚀 Features
-- Document upload & real-time data extraction
-- Batch processing
-- Export results to CSV
-- Dark & light purple aesthetic UI
-- Full-screen interface with business-themed emojis
-- Built with Agentic AI principles
+Manual extraction of details from resumes or employee documents is time-consuming and error-prone.
+HR teams, recruiters, and businesses waste valuable hours going through large sets of resumes or forms.
+Our solution addresses this challenge by automating data extraction using Agentic AI and IBM watsonx to achieve accurate, consistent, and fast results.
 
-## 🧠 Agentic AI & IBM watsonx Usage
-[Explain exactly where your project uses agentic AI and IBM watsonx — I can write this for you.]
+💡 Solution
 
-## 🖥️ Tech Stack
-- Frontend: React + TailwindCSS
-- Backend: Node.js / Flask (depending on your choice)
-- AI: IBM watsonx
-- Hosting: [Netlify/Vercel] + [Render/Heroku]
+Upload a resume PDF in the app.
 
-## 📹 Video Demo
-[Paste your public demo video URL here]
+Click Extract.
 
-## ❤️ Made with love by Aman for Hackathon
+The AI model processes the file and displays extracted details instantly.
+
+Save or export results in CSV format for HR records.
+
+This eliminates the need for manual review and ensures faster recruitment workflows.
+
+🧠 Agentic AI & IBM watsonx Usage
+
+We leverage IBM watsonx to:
+
+Understand and process unstructured text in resumes.
+
+Automatically identify relevant fields (Name, Position, Salary, etc.).
+
+Structure the extracted data for easy export and integration with HR systems.
+
+The Agentic AI approach enables the app to:
+
+Reason over the document content.
+
+Adapt extraction rules dynamically based on resume format variations.
+
+Maintain high accuracy without hardcoding specific layouts.
+
+✨ Features
+
+✅ AI-powered data extraction from resumes
+✅ Beautiful light-purple themed UI
+✅ Full-screen responsive design
+✅ Download as CSV
+✅ Multiple features panel for extra tools
+✅ Bottom footer with “Made with ❤️ for Aman Hackathon”
+
+📹 Video Demonstration
+
+Watch Demo Video : https://drive.google.com/drive/folders/1-TRUbjo-PrQJ-Nh6duiq7orx9AkN5srx?usp=sharing
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS (TailwindCSS), JavaScript
+
+Backend: Python (Flask)
+
+AI Model: IBM watsonx + Agentic AI
+
+Deployment: Local / Cloud-ready
